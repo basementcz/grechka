@@ -14,7 +14,19 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+		{% if post.content contains '<!--more-->' %}
+	
+			{{ post.content | split:'<!--more-->' | first }}
+	
+				<p><a href="{{ post.url }}">Читать...</a></p>
+
+			{% else %}
+
+				{{ post.content }}
+				
+			{% endif %}
       </li>
+	  
     {% endfor %}
   </ul>
 
