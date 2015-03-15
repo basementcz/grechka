@@ -11,3 +11,4 @@ twitter_username: grechkacz
 
 # Build settings
 markdown: kramdown
+encoding: utf-8
