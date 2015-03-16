@@ -11,4 +11,4 @@ twitter_username: grechkacz
 markdown: kramdown
 encoding: utf-8
 excerpt_separator: <!--more-->
-paginate: 5
+paginate: 10
