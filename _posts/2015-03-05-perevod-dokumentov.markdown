@@ -22,4 +22,4 @@ comments: True
 
 Организации, которые занимаются судебными переводами можно найти в <a href="http://bit.ly/1wSlIJO" target="_blank">интернете</a>. 
 
-Ну, а если вы ,вам это кажется сложным, обращайтесь к нам, поможем! <a href="mailto:info@grechka.cz">info@grechka.cz</a>
+Ну, а если это кажется сложным, обращайтесь к нам, мы вам поможем!:) <a href="mailto:info@grechka.cz">info@grechka.cz</a>
