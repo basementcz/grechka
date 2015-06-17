@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Если вы забыли проездной"
-date:   2015-03-30 22:17:46
+date:   2015-06-17 22:17:46
 categories: "jizdenka,praha"
 comments: True
 ---
