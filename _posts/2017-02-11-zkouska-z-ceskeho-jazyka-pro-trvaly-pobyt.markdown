@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Экзамен по чешскому для ПМЖ в 2017/Zkouška z českého jazyka pro trvalý pobyt"
-date:   2017-02-11 12:17:46
-categories: "zkouška" 
+date:   2017-02-11 12:17:46 
 comments: True
 ---
 
